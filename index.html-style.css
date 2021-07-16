@@ -1,0 +1,59 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> لوحة التحكم</title>
+
+  </head>
+</body>
+  <body>
+    <br>
+    <br>
+    <br>
+    <body bgcolor=#679267>
+</body>
+
+<head>
+<?php
+
+?>
+    <center><h1>   لوحة تحكم روبوت  </center></h1>
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+    body
+    {
+      font-family:font-family: 'Great Vibes', cursive;
+    }
+
+</style>
+</body>
+  <body>
+<center>
+<slidr>
+<br>
+<br>
+
+
+
+<p>محرك 1</p>
+                    <input type="range" name="quantity" min="0" max="40" name=“1”>
+                    <p>محرك 2</p>
+                    <input type="range" name="quantity" min="0" max="40" name=“2”>
+                    <p>محرك 3</p>
+                    <input type="range" name="quantity" min="0" max="40" name=“3”>
+                    <p>محرك 4</p>
+                    <input type="range" name="quantity" min="0" max="40"name=“4”>
+                    <p>محرك 5</p>
+                    <input type="range" name="quantity" min="0" max="40" name=“5”>
+                     <p>محرك 6</p>
+    <input type="range" name="quantity" min="0" max="40" name=“6”>
+
+<br>
+<br>
+
+                    <button name=“run”>تشغيل</button>
+                    <button name=“save”>تحفظ</button>
+
+</center>
+</slidr>
+  </body>
+     </html>
